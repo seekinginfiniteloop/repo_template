@@ -1,7 +1,8 @@
-
-<!-- PROJECT SHIELDS -->
 <!--
-*** README template based on Othneil Drew's excellent [Best-README-Template][best-readme-url]
+***
+# TEMPLATE LICENSE:
+
+README template based on Othneil Drew's excellent [Best-README-Template][best-readme-url]
 MIT License
 
 Copyright (c) 2021 Othneil Drew
@@ -23,7 +24,30 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+# CONTENT LICENSE:
+
+   Copyright 2024 Adam Poulemanos
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
 -->
+
+<!-- PROJECT SHIELDS -->
+
+
+# THIS IS A PLACEHOLDER README TEMPLATE UNTIL I CAN GET AROUND TO DOING IT...
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -37,7 +61,7 @@ SOFTWARE.
 
   <p align="center">
     project_description
-   
+
     <br />
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
@@ -225,4 +249,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com

@@ -1,14 +1,12 @@
-# Introduction
+# Anybody Can Contribute
 
-### Contributions Welcome
+Thank you for considering contributing to this repo!
 
-Thank you for considering contributing to this repo! 
-
-### We encourage all contributions
+## We encourage all contributions
 
 **We welcome any kind of contribution. You can improve documentation, triage bugs, write tutorials, fix small and large mistakes, add features, or refactor the whole shebang.**
 
-# Ground Rules
+## Ground Rules
 
 > Responsibilities
 >
