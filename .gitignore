@@ -4,15 +4,21 @@
 **/.vscode/
 **/.mypy_cache/
 **/.idea/
-**/pyenv.cfg
+**/pyvenv.cfg
 **/bin/
 **/include/
 **/lib/
 **/lib64/
 **/.venv
+lib/
+lib64/
+lib
+lib64
+bin
 bin/
 include/
-pyenv.cfg
+include
+pyvenv.cfg
 
 # misc
 .vscode/
@@ -54,8 +60,6 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
-lib64/
 parts/
 sdist/
 var/
