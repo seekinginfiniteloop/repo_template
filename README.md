@@ -45,8 +45,8 @@ SOFTWARE.
 
 <!-- PROJECT SHIELDS -->
 
-
-# THIS IS A PLACEHOLDER README TEMPLATE UNTIL I CAN GET AROUND TO DOING IT...
+# !!! New Project !!!
+# THIS IS A PLACEHOLDER README TEMPLATE UNTIL I CAN GET AROUND TO DOING IT A REAL ONE
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
