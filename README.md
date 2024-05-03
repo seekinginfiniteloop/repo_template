@@ -3,6 +3,10 @@
 # TEMPLATE LICENSE:
 
 README template based on Othneil Drew's excellent [Best-README-Template][best-readme-url]
+***
+# TEMPLATE LICENSE:
+
+README template based on Othneil Drew's excellent [Best-README-Template][best-readme-url]
 MIT License
 
 Copyright (c) 2021 Othneil Drew
@@ -68,6 +72,7 @@ SOFTWARE.
 
   <p align="center">
     project_description
+
 
     <br />
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
@@ -256,4 +261,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[JQuery-url]: https://jquery.com
 [JQuery-url]: https://jquery.com

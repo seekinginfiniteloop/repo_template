@@ -1,3 +1,13 @@
+<!--
+This repo may use content subject to a different license
+from another party.
+
+If so, those files' license information will be in their header, and listed below:
+
+DIFFERENT LICENSE:
+- README.MD (MIT license; (c)2021 Othneil Drew) - base format/template. All additional content is licensed under the Apache License 2.0.
+-->
+
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -186,7 +196,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright 2024 Adam Poulemanos
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
