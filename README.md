@@ -45,8 +45,15 @@ SOFTWARE.
 
 <!-- PROJECT SHIELDS -->
 
-# !!! New Project !!!
-# THIS IS A PLACEHOLDER README TEMPLATE UNTIL I CAN GET AROUND TO DOING IT A REAL ONE
+# THIS IS A PLACEHOLDER README TEMPLATE
+
+## Except this is also the base template for repo_template ... which is really just a set of templates for creating new repos.
+
+## So, this is a template for a template.  A template for a README template.  A README template template.  A README template for README templates
+
+### I digress. Anyway, if you want to use it; clone the repo, and run create_new_repo.py.
+
+### I made this for personal use, so you'll have to find/replace my name for yours, and change the license if you want.
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
