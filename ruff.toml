@@ -1,0 +1,82 @@
+fix = true
+line_length = 100
+
+[lint]
+select = ["D"]
+extend-select = [
+    "C901",
+    "W",
+
+    # local
+    "UP",  # pyupgrade
+    "YTT", # flake8-2020
+]
+ignore = [
+    # https://docs.astral.sh/ruff/formatter/#conflicting-lint-rules
+    "W191",
+    "E111",
+    "E114",
+    "E117",
+    "D206",
+    "D300",
+    "Q000",
+    "Q001",
+    "Q002",
+    "Q003",
+    "COM812",
+    "COM819",
+    "ISC001",
+    "ISC002",
+]
+extend-ignore = [
+    "UP015", # redundant-open-modes, explicit is preferred
+]
+exclude = [
+    "**/_vendor",
+    "setuptools/_distutils",
+    "setuptools/config/_validate_pyproject",
+]
+[lint.pydocstyle]
+convention = "google"
+
+[lint.isort]
+extra-standard--library = [
+    "attrs",
+    "path",
+    "numpy",
+    "pandas",
+    "requests",
+    "yaml",
+    "pytest",
+    "sqlite3",
+    "celery",
+    "dill",
+    "cryptography",
+    "urllib3",
+    "sqlalchemy",
+]
+
+[format]
+docstring-code-format = true
+
+exclude = [
+    "**/_vendor",
+    "setuptools/_distutils",
+    "setuptools/config/_validate_pyproject",
+    ".venv",
+    ".git",
+    ".github",
+    ".vscode",
+    ".idea",
+    "dist",
+    "build",
+    "site",
+    "bin",
+    "lib",
+    "include",
+    "docs",
+]
+# Enable preview, required for quote-style = "preserve"
+preview = true
+# https://docs.astral.sh/ruff/settings/#format-quote-style
+quote-style = "preserve"
