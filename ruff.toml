@@ -1,5 +1,5 @@
 fix = true
-line_length = 100
+line-length = 100
 
 [lint]
 select = ["D"]
